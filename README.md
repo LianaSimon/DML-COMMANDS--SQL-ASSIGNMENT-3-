@@ -1,9 +1,9 @@
-# DML-COMMANDS--SQL-ASSIGNMENT-3-
+# DML-COMMANDS--SQL-ASSIGNMENT-3
 
 ## DML Commands for Managers Table
 This repository contains SQL scripts to perform operations on a Managers table. The script includes table creation, data insertion, and various queries to retrieve and manipulate data.
 
-# -- SQL Script for DML Commands
+## -- SQL Script for DML Commands
 
 -- SQL ASSIGNMENT-3(DML COMMANDS)
 
